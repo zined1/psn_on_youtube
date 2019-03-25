@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is an tools which allows me to check the last video of a chosen youtube channel and try to detect if there is a PSN Card and try to recognize it.
+This repository is a tools which allows me to check the last video of a chosen youtube channel and try to detect if there is a PSN Code and try to recognize it.
 
 ![Example](https://github.com/zined1/psn_youtube/blob/master/demo/demo.gif?raw=true)<br>
 (I have intentionally hidden my API key and the youtube channel).
